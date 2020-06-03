@@ -2,7 +2,7 @@
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
-    <title></title>
+    <title>eeee</title>
   </head>
   <body>
     <h2>coba coba</h2>
